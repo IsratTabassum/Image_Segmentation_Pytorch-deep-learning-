@@ -39,9 +39,3 @@ was used. This helps balance pixel-level accuracy and region overlap performance
 ## 🔍 Results
 
 The model successfully learned meaningful segmentation patterns and produced accurate mask predictions. 
-
-
-
----
-
-Feel free to explore and contribute!
